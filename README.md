@@ -4,4 +4,4 @@
 #### 无序列表
 - 文本文档
 - 开始
-1.文本 【参考】（http://www.jianshu.com)
+1 [简书](http://www.jianshu.com)
